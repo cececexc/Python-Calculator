@@ -2,7 +2,7 @@
 
 
 # Store allowed symbols in 'symbols'
-symbols = [" ", "+", "-", "*", "/"]
+symbols = [" ", ".", "+", "-", "*", "/"]
 
 print("\nEnter '0' to end the script.")
 
